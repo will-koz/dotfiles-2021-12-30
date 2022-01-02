@@ -218,3 +218,4 @@ gaps outer 2
 
 # Custom keybindings:
 bindsym $mod+Control+f exec firefox-developer-edition -private
+bindsym $mod+Control+s exec flameshot full --path ~/screenshots
